@@ -1,0 +1,7 @@
+c:\users\giovanna\source\repos\WS_Posdata_PMKT_Fotos\WcfService1\obj\Debug\WcfService1.csprojAssemblyReference.cache
+c:\users\giovanna\source\repos\WS_Posdata_PMKT_Fotos\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+c:\users\giovanna\source\repos\WS_Posdata_PMKT_Fotos\WcfService1\bin\WcfService1.dll.config
+c:\users\giovanna\source\repos\WS_Posdata_PMKT_Fotos\WcfService1\bin\WcfService1.dll
+c:\users\giovanna\source\repos\WS_Posdata_PMKT_Fotos\WcfService1\bin\WcfService1.pdb
+c:\users\giovanna\source\repos\WS_Posdata_PMKT_Fotos\WcfService1\obj\Debug\WcfService1.dll
+c:\users\giovanna\source\repos\WS_Posdata_PMKT_Fotos\WcfService1\obj\Debug\WcfService1.pdb

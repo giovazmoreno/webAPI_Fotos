@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WS_Posdata_PMKT_Fotos.WS_Posdata_PMKT_Fotos" CodeBehind="WS_Posdata_PMKT_Fotos.svc.cs" %>
